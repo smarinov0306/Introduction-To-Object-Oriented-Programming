@@ -1,6 +1,7 @@
 #INPUT
 
 CreateFlowerStore MyStore
+
 FlowerStoreInfo MyStore
 TestInvalid
 AddFlower tulip red 3.40 MyStore
